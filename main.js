@@ -1,4 +1,3 @@
-
 // Mathematical operators
 
 var summation = 2 + 3;
@@ -35,8 +34,9 @@ var zoeIsCool = true;
 var callanIsCool = true;
 
 if (zoeIsCool && callanIsCool) {
-	console.log('students are happy');
+    console.log('students are happy');
 } else {
-	console.log('nope');
+    console.log('nope');
 }
+
 
